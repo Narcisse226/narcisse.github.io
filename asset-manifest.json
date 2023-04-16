@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.eff28f29.css",
+    "main.js": "/static/js/main.70af8c8f.js",
+    "static/media/me.jpg": "/static/media/me.a2c3350d97bad5ee1e04.jpg",
+    "index.html": "/index.html",
+    "static/media/person_FILL0_wght400_GRAD0_opsz48 (1).svg": "/static/media/person_FILL0_wght400_GRAD0_opsz48 (1).c9f7d89fd54a792a76504b0076cb22c9.svg",
+    "static/media/call_FILL0_wght400_GRAD0_opsz48.svg": "/static/media/call_FILL0_wght400_GRAD0_opsz48.ddfcc7017e755e1fd7c1d2c934678adf.svg",
+    "static/media/folder-fill.svg": "/static/media/folder-fill.8dcf3c9a5639899cc40b33603b00864b.svg",
+    "static/media/facebook.svg": "/static/media/facebook.4d4460260f64103d8da4a91d8e856d36.svg",
+    "static/media/library_books_FILL0_wght400_GRAD0_opsz48.svg": "/static/media/library_books_FILL0_wght400_GRAD0_opsz48.180590bb5e7f208a0182bc5c4f90f361.svg",
+    "static/media/description_FILL0_wght400_GRAD0_opsz48.svg": "/static/media/description_FILL0_wght400_GRAD0_opsz48.811a4335fefa51ce02156b9a9da8c258.svg",
+    "static/media/border_color_FILL0_wght400_GRAD0_opsz48.svg": "/static/media/border_color_FILL0_wght400_GRAD0_opsz48.306440b526b0299d20d0e3c7b482bff1.svg",
+    "static/media/mail_FILL0_wght400_GRAD0_opsz48.svg": "/static/media/mail_FILL0_wght400_GRAD0_opsz48.8f21d0774be0fab32a87c47f91c495f5.svg",
+    "static/media/home_FILL0_wght400_GRAD0_opsz48.svg": "/static/media/home_FILL0_wght400_GRAD0_opsz48.0b0eca035fc0f95cf984a69e37cf98e6.svg",
+    "main.eff28f29.css.map": "/static/css/main.eff28f29.css.map",
+    "main.70af8c8f.js.map": "/static/js/main.70af8c8f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eff28f29.css",
+    "static/js/main.70af8c8f.js"
+  ]
+}
